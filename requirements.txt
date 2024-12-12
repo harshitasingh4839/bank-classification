@@ -1,0 +1,11 @@
+streamlit
+paddleocr
+ultralytics
+pillow
+pdf2image
+pymupdf
+numpy
+paddlepaddle
+fitz
+torch=2.3.1
+# python=3.9
