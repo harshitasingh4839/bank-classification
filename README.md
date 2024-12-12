@@ -1,6 +1,6 @@
 # Bank Classification System
 
-This project implements a robust **Bank Classification System** capable of identifying banks based on logos and text extracted from input documents (PDF or image files). It uses deep learning and OCR technologies for logo detection and text recognition, making it suitable for both scanned and digital documents.
+This project implements a robust **Bank Classification System** capable of identifying banks based on logos and text extracted from input documents (PDF or image files). It uses trained yolo model on custom dataset and OCR technologies for logo detection and text recognition, making it suitable for both scanned and digital documents.
 
 ## Features
 
@@ -41,9 +41,6 @@ Ensure you have the following installed on your system:
    ```bash
    pip install -r requirements.txt
    ```
-
-3. Download the YOLO model weights:
-   Place the `epoch88.pt` model file in the project directory.
 
 4. Install additional tools for handling PDFs (if needed):
    ```bash
@@ -111,5 +108,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-**Contact**: For any questions or support, please reach out at `your-email@example.com`. Replace `your-email@example.com` with your actual contact information.
+**Contact**: For any questions or support, please reach out at `harshitasinghcal4839@gmail.com`.
 
